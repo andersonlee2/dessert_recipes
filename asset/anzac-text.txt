@@ -1,0 +1,84 @@
+====================
+= DXB203 Assignment 1 Client Supplied Resources
+
+Recipe:
+
+Difficulty, Easy
+
+Ingredients:
+
+2 cups plain (non-self raising) flour
+1 cup white or brown sugar
+2 cups rolled or instant oats
+1 cup desiccated coconut
+4 tablespoons golden syrup (cane syrup) or honey
+225 grams butter or margarine
+1 teaspoon baking soda
+2 tablespoons of water
+
+Procedure:
+
+Mix the flour, sugar, oats, and coconut in a bowl
+Melt the syrup and butter in a saucepan. Add the baking soda and water to the syrup mix.
+Mix the wet and dry ingredients, adding water if necessary.
+Separate and roll the mixture into small balls, and flatten them on oven trays.
+Bake at 150°C (300°F) for about 20 minutes or until golden brown.
+The finished biscuits are quite chewy and crisp, and have a long shelf-life.
+
+* Using brown sugar instead of white sugar gives more colour and flavour
+* You can replace coconut with more syrup and oats.
+* Don't omit the baking soda and water. They give the biscuits crispness and colour.
+
+Origins:
+
+During a speech to the East Otago Federation of Women's Institutes, Professor Helen Leach, of the Archaeology Department of the University of Otago in New Zealand, stated that the first published use of the name Anzac in a recipe was in an advertisement in the 7th edition of St Andrew's Cookery Book (Dunedin, 1915). This was a cake, not a biscuit, and there were no mixing instructions. A recipe for "Anzac Biscuits" appeared in the War Chest Cookery Book (Sydney, 1917) but was for a different biscuit altogether. The same publication included a prototype of today's Anzac biscuit, called Rolled Oats Biscuits. The combination of the name Anzac and the recipe now associated with it first appeared in the 9th edition of St Andrew's Cookery Book (Dunedin, 1921) under the name "Anzac Crispies". Subsequent editions renamed this "Anzac Biscuits" and Australian cookery books followed suit. Professor Leach also said that further research might reveal earlier references to the name and recipe in Australia or New Zealand.
+
+Rather than being sent to the front lines for the soldiers to eat as some people think, ANZAC biscuits were commonly eaten at galas, fetes and other public events such as parades, where they were sold to raise money to support the war effort. At the time they were often called "soldier's biscuits", and the fundraising that was organised by the Patriotic Funds accumulated 6.5 million pounds to support New Zealand troops in the war.
+
+Comments:
+
+Davo: 25 Feb 2018 @ 17:16, Rating 4/5, "These were soooo tasty. I was
+afraid that it wasn't going to work, but when they came out of the oven
+they looked perfect! Can't wait to try it again."
+
+ozmax25: 26 Jan 2018 @ 14:25, Rating 5/5, "A true classic. Love to
+serve these on ANZAC day :P."
+
+biscuit_3395: 01 Dec 2017 @ 21:45, Rating 2/5, "Argh, so
+frustrating. I tried the ANZAC biscuit recipe, but it came out as a single large biscuit! Next time, I think I'll stick to bought biscuits."
+
+====================
+= Text sources
+
+Recipe - source: https://en.wikibooks.org/wiki/Cookbook:Anzac_Biscuits, used
+    under a Creative Commons, Attribution - ShareAlike License.
+
+Origins - source: https://en.wikipedia.org/wiki/Anzac_biscuit,
+    used under a Creative Commons, Attribution - ShareAlike License.
+
+====================
+= Image sources
+
+war-chest-cookery-book-cover.jpg
+	source: http://nla.gov.au/nla.obj-37545603/view?partId=nla.obj-37545616#
+	© User: Sydney : Websdale, Shoosmith, 1917 / Public Domain 
+	(used under Public Domain License).
+
+fundraising-in-adelaide.jpg
+	source: https://flic.kr/p/fMxU4p
+	© User:State Library of South Australia / Flickr Creative Commons / 	CC-BY-2.0 Generic 	
+	(used under a Creative Commons, Attribution License).
+
+
+anzac_biscuits.jpg
+    source: https://commons.wikimedia.org/wiki/File:ANZAC_biscuits.JPG, 
+	© User:pfctdayelise / Wikimedia Commons / CC-BY-SA-2.5 Generic 
+	(used under a Creative Commons, Attribution, Share Alike License).
+
+anzac_plate.jpg
+    source: https://goo.gl/r9ZQrr, 
+	© User:Tristan Ferne / Flickr Creative Commons / CC-BY-2.0 Generic 
+	(used under a Creative Commons, Attribution License).
+
+(NOTE: You are also free to use other images, but you should include an
+attribution for them on your 'About' page).
